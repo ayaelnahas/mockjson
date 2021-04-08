@@ -1,0 +1,26 @@
+{
+"Game":{
+    "id": "int",
+    "title": "string",
+    "body": "string",
+    "type": "Type",
+    "featured":"Feature[]",
+    "recommended":"Recommended[]",
+    "popular":"Popular[]"
+},
+"Featured": {
+    "games":"Game[]"
+  },
+  "Recommended": {
+   "games":"Game[]"
+  },
+  "Popular": {
+    "games":"Game[]"
+  },
+  "Type":{
+  "name":"string",
+  "games":"Game[]"
+  }
+}
+
+
