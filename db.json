@@ -1,81 +1,169 @@
 {
-"games":[{
-    "id": 1,
-    "title": "game1",
-    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
-    "type": "featured"
-},
-  {
-    "id": 2,
-    "title": "game2",
-    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
-    "type": "recomended"
-  },
-         {
-    "id": 3,
-    "title": "game3",
-    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
-    "type": "popular"
-         },
-         {
-    "id": 4,
-    "title": "game4",
-    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
-    "type": "popular"
-         }
-         ,
-         {
-    "id": 5,
-    "title": "game5",
-    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
-    "type": "recomended"
-         }
-          ,
-         {
-    "id": 6,
-    "title": "game6",
-    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
-    "type": "featured"
-         }
-         ,
-         {
-    "id": 7,
-    "title": "game7",
-    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
-    "type": "popular"
-         }
-    ],
+  "games": [
+    {
+      "id": 1,
+      "title": "Game-1",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
+      "type": "recommended"
+    },
+    {
+      "id": 2,
+      "title": "Game-2",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
+      "type": "recommended"
+    },
+    {
+      "id": 3,
+      "title": "Game-3",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
+      "type": "popular"
+    },
+    {
+      "id": 4,
+      "title": "Game-4",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
+      "type": "popular"
+    },
+    {
+      "id": 5,
+      "title": "Game-5",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
+      "type": "recommended"
+    },
+    {
+      "id": 6,
+      "title": "Game-6",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
+      "type": "popular"
+    },
+    {
+      "id": 7,
+      "title": "Game-7",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
+      "type": "popular"
+    },
+    {
+      "id": 8,
+      "title": "Game-8",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
+      "type": "popular"
+    },
+    {
+      "id": 9,
+      "title": "Game-9",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
+      "type": "recommended"
+    },
+    {
+      "id": 10,
+      "title": "Game-10",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
+      "type": "recommended"
+    },
+    {
+      "id": 11,
+      "title": "Game-11",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
+      "type": "recommended"
+    },
+    {
+      "id": 12,
+      "title": "Game-12",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
+      "type": "recommended"
+    },
+    {
+      "id": 13,
+      "title": "Game-13",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
+      "type": "recommended"
+    },
+    {
+      "id": 14,
+      "title": "Game-14",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
+      "type": "recommended"
+    },
+    {
+      "id": 15,
+      "title": "Game-15",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
+      "type": "recommended"
+    },
+    {
+      "id": 16,
+      "title": "Game-16",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
+      "type": "recommended"
+    }
+  ],
 
-    "categories":[
-        {
-        "id":1,
-        "name":"category1",
-        "gameId":1
+  "categories": [
+    {
+      "id": 1,
+      "name": "category-1",
+      "Game-Id": 1
     },
-        {
-        "id":2,
-        "name":"category2",
-        "gameId":[3,4]
+    {
+      "id": 2,
+      "name": "category-2",
+      "Game-Id": [3, 4]
     },
-        
-        {
-        "id":3,
-        "name":"category3",
-        "gameId":[2,4]
+
+    {
+      "id": 3,
+      "name": "category-3",
+      "Game-Id": [2, 4]
+    },
+    {
+      "id": 4,
+      "name": "category-4",
+      "Game-Id": [5, 7]
+    },
+    {
+      "id": 5,
+      "name": "category-5",
+      "Game-Id": [5, 6, 7]
+    },
+    {
+      "id": 6,
+      "name": "category-6",
+      "Game-Id": [8, 9]
+    },
+    {
+      "id": 7,
+      "name": "category-7",
+      "Game-Id": 10
+    },
+    {
+      "id": 8,
+      "name": "category-8",
+      "Game-Id": [13, 14]
+    },
+    {
+      "id": 9,
+      "name": "category-9",
+      "Game-Id": [10, 11]
+    },
+    {
+      "id": 10,
+      "name": "category-10",
+      "Game-Id": [13, 14, 9]
+    },
+    {
+      "id": 11,
+      "name": "category-11",
+      "Game-Id": [3, 4, 14]
+    },
+    {
+      "id": 12,
+      "name": "category-12",
+      "Game-Id": [1, 2, 3]
+    },
+    {
+      "id": 13,
+      "name": "category-13",
+      "Game-Id": [4, 6, 7]
     }
-,
-        {
-        "id":4,
-        "name":"category4",
-        "gameId":[5,7]
-    }
-,
-        {
-        "id":5,
-        "name":"category5",
-        "gameId":[5,6,7]
-    }
-     ]
+  ]
 }
-
-
