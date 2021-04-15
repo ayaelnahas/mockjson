@@ -25,7 +25,7 @@
       "id": 4,
       "title": "Game-4",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
-      "type": "popular",
+      "type": "recommended",
       "src":"https://fakeimg.pl/350x200/ff0000/700/"
     },
     {
@@ -39,7 +39,7 @@
       "id": 6,
       "title": "Game-6",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
-      "type": "popular",
+      "type": "recommended",
       "src":"https://fakeimg.pl/350x200/ff0000/700/"
     },
     {
