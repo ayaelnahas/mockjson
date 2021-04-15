@@ -4,97 +4,113 @@
       "id": 1,
       "title": "Game-1",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
-      "type": "recommended"
+      "type": "recommended",
+      "src":"https://fakeimg.pl/350x200/ff0000,128/000,255"
     },
     {
       "id": 2,
       "title": "Game-2",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
-      "type": "recommended"
+      "type": "recommended",
+      "src":"https://fakeimg.pl/350x200/ff0000/700/"
     },
     {
       "id": 3,
       "title": "Game-3",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
-      "type": "popular"
+      "type": "popular",
+      "src":"https://fakeimg.pl/350x200/ff0000,128/000,255"
     },
     {
       "id": 4,
       "title": "Game-4",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
-      "type": "popular"
+      "type": "popular",
+      "src":"https://fakeimg.pl/350x200/ff0000/700/"
     },
     {
       "id": 5,
       "title": "Game-5",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
-      "type": "recommended"
+      "type": "recommended",
+      "src":"https://fakeimg.pl/350x200/ff0000/700/"
     },
     {
       "id": 6,
       "title": "Game-6",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
-      "type": "popular"
+      "type": "popular",
+      "src":"https://fakeimg.pl/350x200/ff0000/700/"
     },
     {
       "id": 7,
       "title": "Game-7",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
-      "type": "popular"
+      "type": "popular",
+      "src":"https://fakeimg.pl/350x200/ff0000/700/"
     },
     {
       "id": 8,
       "title": "Game-8",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
-      "type": "popular"
+      "type": "popular",
+      "src":"https://fakeimg.pl/350x200/ff0000,128/000,255"
     },
     {
       "id": 9,
       "title": "Game-9",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
-      "type": "recommended"
+      "type": "recommended",
+      "src":"https://fakeimg.pl/350x200/ff0000%2C128/000%2C255/"
     },
     {
       "id": 10,
       "title": "Game-10",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
-      "type": "recommended"
+      "type": "recommended",
+      "src":"https://fakeimg.pl/350x200/ff0000%2C128/000%2C255/"
     },
     {
       "id": 11,
       "title": "Game-11",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
-      "type": "recommended"
+      "type": "recommended",
+      "src":"https://fakeimg.pl/350x200/ff0000,128/000,255"
     },
     {
       "id": 12,
       "title": "Game-12",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
-      "type": "recommended"
+      "type": "recommended",
+      "src":"https://fakeimg.pl/350x200/ff0000%2C128/000%2C255/"
     },
     {
       "id": 13,
       "title": "Game-13",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
-      "type": "recommended"
+      "type": "recommended",
+      "src":"https://fakeimg.pl/350x200/ff0000/700/"
     },
     {
       "id": 14,
       "title": "Game-14",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
-      "type": "recommended"
+      "type": "recommended",
+      "src":"https://fakeimg.pl/350x200/ff0000,128/000,255"
     },
     {
       "id": 15,
       "title": "Game-15",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
-      "type": "recommended"
+      "type": "recommended",
+      "src":"https://fakeimg.pl/350x200/ff0000,128/000,255"
     },
     {
       "id": 16,
       "title": "Game-16",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
-      "type": "recommended"
+      "type": "recommended",
+      "src":"https://fakeimg.pl/350x200/ff0000,128/000,255"
     }
   ],
 
