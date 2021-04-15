@@ -109,7 +109,21 @@
       "id": 16,
       "title": "Game-16",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
-      "type": "popular",
+      "type": "recommended",
+      "src":"https://fakeimg.pl/350x200/ff0000,128/000,255"
+    },
+    {
+      "id": 17,
+      "title": "Game-17",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
+      "type": "recommended",
+      "src":"https://fakeimg.pl/350x200/ff0000,128/000,255"
+    },
+    {
+      "id": 18,
+      "title": "Game-18",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae leo vitae tortor suscipit accumsan.Quisque eleifend ligula vitae nisl molestie ultrices.",
+      "type": "recommended",
       "src":"https://fakeimg.pl/350x200/ff0000,128/000,255"
     }
   ],
